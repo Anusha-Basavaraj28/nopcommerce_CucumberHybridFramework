@@ -1,0 +1,20 @@
+-------------------------------------------------------------------------------
+Test set: com.demo.TestRunner.TestRunnerAddCustomer
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 53.052 sec <<< FAILURE!
+Search customer by using Emailid(Customers)  Time elapsed: 9.001 sec  <<< FAILURE!
+java.lang.AssertionError
+	at org.junit.Assert.fail(Assert.java:87)
+	at org.junit.Assert.assertTrue(Assert.java:42)
+	at org.junit.Assert.assertTrue(Assert.java:53)
+	at com.demo.StepDefinitions.StepDefinitions.user_should_found_email_in_the_search_table(StepDefinitions.java:232)
+	at ?.user should found email in the search table(file:///C:/Users/anush/eclipse-workspace/CucumberHybridFramework/./Features/customer.feature:25)
+
+Login with multiple credentials(Data Driven) #2(Login)  Time elapsed: 2.905 sec  <<< FAILURE!
+java.lang.AssertionError
+	at org.junit.Assert.fail(Assert.java:87)
+	at org.junit.Assert.assertTrue(Assert.java:42)
+	at org.junit.Assert.assertTrue(Assert.java:53)
+	at com.demo.StepDefinitions.StepDefinitions.user_should_navigated_to_home_page_and_title_should_be(StepDefinitions.java:97)
+	at ?.user should navigated to home page and title should be "Dashboard / nopCommerce administration"(file:///C:/Users/anush/eclipse-workspace/CucumberHybridFramework/./Features/login.feature:20)
+

@@ -1,0 +1,684 @@
+2023-05-20 17:02:27,607 - nopCommerce -INFO - User launch the browser
+2023-05-20 17:02:27,636 - nopCommerce -INFO - user opens the URL
+2023-05-20 17:02:28,592 - nopCommerce -INFO - user enters email  and password 
+2023-05-20 17:02:28,843 - nopCommerce -INFO - user clicks login button
+2023-05-20 17:02:30,926 - nopCommerce -INFO - user navigated to home page
+2023-05-20 17:02:30,927 - nopCommerce -INFO - user clicks on Customer menu 
+2023-05-20 17:02:31,000 - nopCommerce -INFO - user clicks on customer menu item 
+2023-05-20 17:02:32,082 - nopCommerce -INFO - user click on Add new button 
+2023-05-20 17:02:32,821 - nopCommerce -INFO - user  view the Add new customer page 
+2023-05-20 17:02:32,823 - nopCommerce -INFO - user enters customer details 
+2023-05-20 17:02:32,824 - nopCommerce -INFO - user enters email ID
+2023-05-20 17:02:32,907 - nopCommerce -INFO - user enters passwrd
+2023-05-20 17:02:32,963 - nopCommerce -INFO - user enters customer first name
+2023-05-20 17:02:33,028 - nopCommerce -INFO - user enters customer last name
+2023-05-20 17:02:33,086 - nopCommerce -INFO - user enters customer gender
+2023-05-20 17:02:33,137 - nopCommerce -INFO - user enters customer DOB
+2023-05-20 17:02:33,221 - nopCommerce -INFO - user enters company name
+2023-05-20 17:02:39,586 - nopCommerce -INFO - user selects vender
+2023-05-20 17:02:39,754 - nopCommerce -INFO - user enters comment
+2023-05-20 17:02:39,872 - nopCommerce -INFO - user clicks on Save button
+2023-05-20 17:02:40,622 - nopCommerce -INFO - The new customer has been added successfully.
+2023-05-20 17:02:40,622 - nopCommerce -INFO - close the browser 
+2023-05-20 17:02:41,702 - nopCommerce -INFO - User launch the browser
+2023-05-20 17:02:41,702 - nopCommerce -INFO - user opens the URL
+2023-05-20 17:02:42,817 - nopCommerce -INFO - user enters email  and password 
+2023-05-20 17:02:43,059 - nopCommerce -INFO - user clicks login button
+2023-05-20 17:02:45,152 - nopCommerce -INFO - user navigated to home page
+2023-05-20 17:02:45,152 - nopCommerce -INFO - user clicks on Customer menu 
+2023-05-20 17:02:45,216 - nopCommerce -INFO - user clicks on customer menu item 
+2023-05-20 17:02:46,349 - nopCommerce -INFO - user enters customer email to search
+2023-05-20 17:02:46,448 - nopCommerce -INFO - user clicks on the search button
+2023-05-20 17:02:50,507 - nopCommerce -INFO - User launch the browser
+2023-05-20 17:02:50,509 - nopCommerce -INFO - user opens the URL
+2023-05-20 17:02:51,379 - nopCommerce -INFO - user enters email  and password 
+2023-05-20 17:02:51,610 - nopCommerce -INFO - user clicks login button
+2023-05-20 17:02:53,523 - nopCommerce -INFO - user navigated to home page
+2023-05-20 17:02:53,524 - nopCommerce -INFO - user clicks on Customer menu 
+2023-05-20 17:02:53,600 - nopCommerce -INFO - user clicks on customer menu item 
+2023-05-20 17:02:54,760 - nopCommerce -INFO - user enters customer First name and last name
+2023-05-20 17:02:54,871 - nopCommerce -INFO - user clicks on the search button
+2023-05-20 17:02:58,101 - nopCommerce -INFO - user  found First name and last name in the search table
+2023-05-20 17:02:58,101 - nopCommerce -INFO - close the browser 
+2023-05-20 17:02:59,135 - nopCommerce -INFO - User launch the browser
+2023-05-20 17:02:59,137 - nopCommerce -INFO - user opens the URL
+2023-05-20 17:03:00,255 - nopCommerce -INFO - user enters email  and password 
+2023-05-20 17:03:00,489 - nopCommerce -INFO - user clicks login button
+2023-05-20 17:03:02,295 - nopCommerce -INFO - user navigated to home page
+2023-05-20 17:03:02,296 - nopCommerce -INFO - user clicks on Logout button
+2023-05-20 17:03:03,166 - nopCommerce -INFO - user navigated to login page 
+2023-05-20 17:03:03,176 - nopCommerce -INFO - close the browser 
+2023-05-20 17:03:04,184 - nopCommerce -INFO - User launch the browser
+2023-05-20 17:03:04,185 - nopCommerce -INFO - user opens the URL
+2023-05-20 17:03:05,275 - nopCommerce -INFO - user enters email  and password 
+2023-05-20 17:03:05,509 - nopCommerce -INFO - user clicks login button
+2023-05-20 17:03:07,526 - nopCommerce -INFO - user navigated to home page
+2023-05-20 17:03:07,528 - nopCommerce -INFO - user clicks on Logout button
+2023-05-20 17:03:08,269 - nopCommerce -INFO - user navigated to login page 
+2023-05-20 17:03:08,280 - nopCommerce -INFO - close the browser 
+2023-05-20 17:03:09,319 - nopCommerce -INFO - User launch the browser
+2023-05-20 17:03:09,321 - nopCommerce -INFO - user opens the URL
+2023-05-20 17:03:10,188 - nopCommerce -INFO - user enters email  and password 
+2023-05-20 17:03:10,407 - nopCommerce -INFO - user clicks login button
+2023-05-20 17:03:10,964 - nopCommerce -INFO -  Login was unsuccessful
+2023-05-20 17:19:35,091 - nopCommerce -INFO - User launch the browser
+2023-05-20 17:19:35,117 - nopCommerce -INFO - user opens the URL
+2023-05-20 17:19:36,151 - nopCommerce -INFO - user enters email  and password 
+2023-05-20 17:19:36,431 - nopCommerce -INFO - user clicks login button
+2023-05-20 17:19:38,573 - nopCommerce -INFO - user navigated to home page
+2023-05-20 17:19:38,574 - nopCommerce -INFO - user clicks on Logout button
+2023-05-20 17:19:39,375 - nopCommerce -INFO - user navigated to login page 
+2023-05-20 17:19:39,386 - nopCommerce -INFO - close the browser 
+2023-05-20 17:19:43,053 - nopCommerce -INFO - User launch the browser
+2023-05-20 17:19:43,053 - nopCommerce -INFO - user opens the URL
+2023-05-20 17:19:44,063 - nopCommerce -INFO - user enters email  and password 
+2023-05-20 17:19:44,372 - nopCommerce -INFO - user clicks login button
+2023-05-20 17:19:46,301 - nopCommerce -INFO - user navigated to home page
+2023-05-20 17:19:46,302 - nopCommerce -INFO - user clicks on Logout button
+2023-05-20 17:19:47,048 - nopCommerce -INFO - user navigated to login page 
+2023-05-20 17:19:47,058 - nopCommerce -INFO - close the browser 
+2023-05-20 17:19:50,669 - nopCommerce -INFO - User launch the browser
+2023-05-20 17:19:50,672 - nopCommerce -INFO - user opens the URL
+2023-05-20 17:19:51,557 - nopCommerce -INFO - user enters email  and password 
+2023-05-20 17:19:51,886 - nopCommerce -INFO - user clicks login button
+2023-05-20 17:19:52,413 - nopCommerce -INFO -  Login was unsuccessful
+2023-05-20 17:22:03,794 - nopCommerce -INFO - User launch the browser
+2023-05-20 17:22:03,811 - nopCommerce -INFO - user opens the URL
+2023-05-20 17:22:04,920 - nopCommerce -INFO - user enters email  and password 
+2023-05-20 17:22:05,161 - nopCommerce -INFO - user clicks login button
+2023-05-20 17:22:07,264 - nopCommerce -INFO - user navigated to home page
+2023-05-20 17:22:07,265 - nopCommerce -INFO - user clicks on Logout button
+2023-05-20 17:22:07,967 - nopCommerce -INFO - user navigated to login page 
+2023-05-20 17:22:07,976 - nopCommerce -INFO - close the browser 
+2023-05-20 17:22:10,721 - nopCommerce -INFO - User launch the browser
+2023-05-20 17:22:10,723 - nopCommerce -INFO - user opens the URL
+2023-05-20 17:22:11,772 - nopCommerce -INFO - user enters email  and password 
+2023-05-20 17:22:11,982 - nopCommerce -INFO - user clicks login button
+2023-05-20 17:22:13,722 - nopCommerce -INFO - user navigated to home page
+2023-05-20 17:22:13,723 - nopCommerce -INFO - user clicks on Logout button
+2023-05-20 17:22:14,438 - nopCommerce -INFO - user navigated to login page 
+2023-05-20 17:22:14,447 - nopCommerce -INFO - close the browser 
+2023-05-20 17:22:17,167 - nopCommerce -INFO - User launch the browser
+2023-05-20 17:22:17,169 - nopCommerce -INFO - user opens the URL
+2023-05-20 17:22:18,030 - nopCommerce -INFO - user enters email  and password 
+2023-05-20 17:22:18,252 - nopCommerce -INFO - user clicks login button
+2023-05-20 17:22:18,752 - nopCommerce -INFO -  Login was unsuccessful
+2023-05-20 17:38:53,744 - nopCommerce -INFO - User launch the browser
+2023-05-20 17:38:53,767 - nopCommerce -INFO - user opens the URL
+2023-05-20 17:38:54,861 - nopCommerce -INFO - user enters email  and password 
+2023-05-20 17:38:55,109 - nopCommerce -INFO - user clicks login button
+2023-05-20 17:38:57,454 - nopCommerce -INFO - user navigated to home page
+2023-05-20 17:38:57,455 - nopCommerce -INFO - user clicks on Logout button
+2023-05-20 17:38:58,177 - nopCommerce -INFO - user navigated to login page 
+2023-05-20 17:38:58,185 - nopCommerce -INFO - close the browser 
+2023-05-20 17:39:00,935 - nopCommerce -INFO - User launch the browser
+2023-05-20 17:39:00,938 - nopCommerce -INFO - user opens the URL
+2023-05-20 17:39:01,697 - nopCommerce -INFO - user enters email  and password 
+2023-05-20 17:39:01,919 - nopCommerce -INFO - user clicks login button
+2023-05-20 17:39:04,334 - nopCommerce -INFO - user navigated to home page
+2023-05-20 17:39:04,336 - nopCommerce -INFO - user clicks on Logout button
+2023-05-20 17:39:05,150 - nopCommerce -INFO - user navigated to login page 
+2023-05-20 17:39:05,158 - nopCommerce -INFO - close the browser 
+2023-05-20 17:39:07,915 - nopCommerce -INFO - User launch the browser
+2023-05-20 17:39:07,916 - nopCommerce -INFO - user opens the URL
+2023-05-20 17:39:21,113 - nopCommerce -INFO - user enters email  and password 
+2023-05-20 17:39:21,274 - nopCommerce -INFO - user clicks login button
+2023-05-20 17:39:21,790 - nopCommerce -INFO -  Login was unsuccessful
+2023-05-20 17:51:42,734 - nopCommerce -INFO - User launch the browser
+2023-05-20 17:51:42,768 - nopCommerce -INFO - user opens the URL
+2023-05-20 17:51:43,798 - nopCommerce -INFO - user enters email  and password 
+2023-05-20 17:51:44,010 - nopCommerce -INFO - user clicks login button
+2023-05-20 17:51:45,938 - nopCommerce -INFO - user navigated to home page
+2023-05-20 17:51:45,939 - nopCommerce -INFO - user clicks on Customer menu 
+2023-05-20 17:51:46,003 - nopCommerce -INFO - user clicks on customer menu item 
+2023-05-20 17:51:47,101 - nopCommerce -INFO - user click on Add new button 
+2023-05-20 17:51:47,856 - nopCommerce -INFO - user  view the Add new customer page 
+2023-05-20 17:51:47,856 - nopCommerce -INFO - user enters customer details 
+2023-05-20 17:51:47,858 - nopCommerce -INFO - user enters email ID
+2023-05-20 17:51:47,940 - nopCommerce -INFO - user enters passwrd
+2023-05-20 17:51:47,990 - nopCommerce -INFO - user enters customer first name
+2023-05-20 17:51:48,039 - nopCommerce -INFO - user enters customer last name
+2023-05-20 17:51:48,097 - nopCommerce -INFO - user enters customer gender
+2023-05-20 17:51:48,143 - nopCommerce -INFO - user enters customer DOB
+2023-05-20 17:51:48,224 - nopCommerce -INFO - user enters company name
+2023-05-20 17:51:54,591 - nopCommerce -INFO - user selects vender
+2023-05-20 17:51:54,769 - nopCommerce -INFO - user enters comment
+2023-05-20 17:51:54,856 - nopCommerce -INFO - user clicks on Save button
+2023-05-20 17:51:55,723 - nopCommerce -INFO - The new customer has been added successfully.
+2023-05-20 17:51:55,725 - nopCommerce -INFO - close the browser 
+2023-05-20 17:51:56,774 - nopCommerce -INFO - User launch the browser
+2023-05-20 17:51:56,786 - nopCommerce -INFO - user opens the URL
+2023-05-20 17:51:57,607 - nopCommerce -INFO - user enters email  and password 
+2023-05-20 17:51:57,829 - nopCommerce -INFO - user clicks login button
+2023-05-20 17:51:59,407 - nopCommerce -INFO - user navigated to home page
+2023-05-20 17:51:59,408 - nopCommerce -INFO - user clicks on Logout button
+2023-05-20 17:52:00,196 - nopCommerce -INFO - user navigated to login page 
+2023-05-20 17:52:00,207 - nopCommerce -INFO - close the browser 
+2023-05-20 17:59:27,191 - nopCommerce -INFO - User launch the browser
+2023-05-20 17:59:27,218 - nopCommerce -INFO - user opens the URL
+2023-05-20 17:59:28,169 - nopCommerce -INFO - user enters email  and password 
+2023-05-20 17:59:28,387 - nopCommerce -INFO - user clicks login button
+2023-05-20 17:59:32,254 - nopCommerce -INFO - user navigated to home page
+2023-05-20 17:59:32,255 - nopCommerce -INFO - user clicks on Customer menu 
+2023-05-20 17:59:32,312 - nopCommerce -INFO - user clicks on customer menu item 
+2023-05-20 17:59:33,734 - nopCommerce -INFO - user click on Add new button 
+2023-05-20 17:59:34,900 - nopCommerce -INFO - user  view the Add new customer page 
+2023-05-20 17:59:34,901 - nopCommerce -INFO - user enters customer details 
+2023-05-20 17:59:34,902 - nopCommerce -INFO - user enters email ID
+2023-05-20 17:59:35,013 - nopCommerce -INFO - user enters passwrd
+2023-05-20 17:59:35,098 - nopCommerce -INFO - user enters customer first name
+2023-05-20 17:59:35,171 - nopCommerce -INFO - user enters customer last name
+2023-05-20 17:59:35,219 - nopCommerce -INFO - user enters customer gender
+2023-05-20 17:59:35,283 - nopCommerce -INFO - user enters customer DOB
+2023-05-20 17:59:35,416 - nopCommerce -INFO - user enters company name
+2023-05-20 17:59:41,814 - nopCommerce -INFO - user selects vender
+2023-05-20 17:59:41,978 - nopCommerce -INFO - user enters comment
+2023-05-20 17:59:42,081 - nopCommerce -INFO - user clicks on Save button
+2023-05-20 17:59:42,848 - nopCommerce -INFO - The new customer has been added successfully.
+2023-05-20 17:59:42,849 - nopCommerce -INFO - close the browser 
+2023-05-20 17:59:43,884 - nopCommerce -INFO - User launch the browser
+2023-05-20 17:59:43,884 - nopCommerce -INFO - user opens the URL
+2023-05-20 17:59:44,773 - nopCommerce -INFO - user enters email  and password 
+2023-05-20 17:59:44,997 - nopCommerce -INFO - user clicks login button
+2023-05-20 17:59:46,989 - nopCommerce -INFO - user navigated to home page
+2023-05-20 17:59:46,990 - nopCommerce -INFO - user clicks on Customer menu 
+2023-05-20 17:59:47,051 - nopCommerce -INFO - user clicks on customer menu item 
+2023-05-20 17:59:48,223 - nopCommerce -INFO - user enters customer email to search
+2023-05-20 17:59:48,349 - nopCommerce -INFO - user clicks on the search button
+2023-05-20 17:59:52,431 - nopCommerce -INFO - User launch the browser
+2023-05-20 17:59:52,436 - nopCommerce -INFO - user opens the URL
+2023-05-20 17:59:53,414 - nopCommerce -INFO - user enters email  and password 
+2023-05-20 17:59:53,645 - nopCommerce -INFO - user clicks login button
+2023-05-20 17:59:56,051 - nopCommerce -INFO - user navigated to home page
+2023-05-20 17:59:56,052 - nopCommerce -INFO - user clicks on Customer menu 
+2023-05-20 17:59:56,102 - nopCommerce -INFO - user clicks on customer menu item 
+2023-05-20 17:59:57,217 - nopCommerce -INFO - user enters customer First name and last name
+2023-05-20 17:59:57,327 - nopCommerce -INFO - user clicks on the search button
+2023-05-20 18:00:00,659 - nopCommerce -INFO - user  found First name and last name in the search table
+2023-05-20 18:00:00,659 - nopCommerce -INFO - close the browser 
+2023-05-20 18:00:01,729 - nopCommerce -INFO - User launch the browser
+2023-05-20 18:00:01,729 - nopCommerce -INFO - user opens the URL
+2023-05-20 18:00:03,113 - nopCommerce -INFO - user enters email  and password 
+2023-05-20 18:00:03,351 - nopCommerce -INFO - user clicks login button
+2023-05-20 18:00:05,690 - nopCommerce -INFO - user navigated to home page
+2023-05-20 18:00:05,691 - nopCommerce -INFO - user clicks on Logout button
+2023-05-20 18:00:06,507 - nopCommerce -INFO - user navigated to login page 
+2023-05-20 18:00:06,516 - nopCommerce -INFO - close the browser 
+2023-05-20 18:00:07,546 - nopCommerce -INFO - User launch the browser
+2023-05-20 18:00:07,548 - nopCommerce -INFO - user opens the URL
+2023-05-20 18:00:08,486 - nopCommerce -INFO - user enters email  and password 
+2023-05-20 18:00:08,713 - nopCommerce -INFO - user clicks login button
+2023-05-20 18:00:10,396 - nopCommerce -INFO - user navigated to home page
+2023-05-20 18:00:10,397 - nopCommerce -INFO - user clicks on Logout button
+2023-05-20 18:00:11,310 - nopCommerce -INFO - user navigated to login page 
+2023-05-20 18:00:11,320 - nopCommerce -INFO - close the browser 
+2023-05-20 18:00:12,376 - nopCommerce -INFO - User launch the browser
+2023-05-20 18:00:12,382 - nopCommerce -INFO - user opens the URL
+2023-05-20 18:00:13,193 - nopCommerce -INFO - user enters email  and password 
+2023-05-20 18:00:13,430 - nopCommerce -INFO - user clicks login button
+2023-05-20 18:00:13,958 - nopCommerce -INFO -  Login was unsuccessful
+2023-05-20 18:01:26,403 - nopCommerce -INFO - User launch the browser
+2023-05-20 18:01:26,433 - nopCommerce -INFO - user opens the URL
+2023-05-20 18:01:27,197 - nopCommerce -INFO - user enters email  and password 
+2023-05-20 18:01:27,418 - nopCommerce -INFO - user clicks login button
+2023-05-20 18:01:29,276 - nopCommerce -INFO - user navigated to home page
+2023-05-20 18:01:29,277 - nopCommerce -INFO - user clicks on Customer menu 
+2023-05-20 18:01:29,342 - nopCommerce -INFO - user clicks on customer menu item 
+2023-05-20 18:01:30,422 - nopCommerce -INFO - user click on Add new button 
+2023-05-20 18:01:31,063 - nopCommerce -INFO - user  view the Add new customer page 
+2023-05-20 18:01:31,063 - nopCommerce -INFO - user enters customer details 
+2023-05-20 18:01:31,063 - nopCommerce -INFO - user enters email ID
+2023-05-20 18:01:31,163 - nopCommerce -INFO - user enters passwrd
+2023-05-20 18:01:31,212 - nopCommerce -INFO - user enters customer first name
+2023-05-20 18:01:31,273 - nopCommerce -INFO - user enters customer last name
+2023-05-20 18:01:31,314 - nopCommerce -INFO - user enters customer gender
+2023-05-20 18:01:31,365 - nopCommerce -INFO - user enters customer DOB
+2023-05-20 18:01:31,447 - nopCommerce -INFO - user enters company name
+2023-05-20 18:01:37,780 - nopCommerce -INFO - user selects vender
+2023-05-20 18:01:37,973 - nopCommerce -INFO - user enters comment
+2023-05-20 18:01:38,113 - nopCommerce -INFO - user clicks on Save button
+2023-05-20 18:01:38,845 - nopCommerce -INFO - The new customer has been added successfully.
+2023-05-20 18:01:38,846 - nopCommerce -INFO - close the browser 
+2023-05-20 18:01:39,929 - nopCommerce -INFO - User launch the browser
+2023-05-20 18:01:39,936 - nopCommerce -INFO - user opens the URL
+2023-05-20 18:01:40,568 - nopCommerce -INFO - user enters email  and password 
+2023-05-20 18:01:40,797 - nopCommerce -INFO - user clicks login button
+2023-05-20 18:01:42,496 - nopCommerce -INFO - user navigated to home page
+2023-05-20 18:01:42,497 - nopCommerce -INFO - user clicks on Customer menu 
+2023-05-20 18:01:42,556 - nopCommerce -INFO - user clicks on customer menu item 
+2023-05-20 18:01:43,618 - nopCommerce -INFO - user enters customer email to search
+2023-05-20 18:01:43,719 - nopCommerce -INFO - user clicks on the search button
+2023-05-20 18:01:47,796 - nopCommerce -INFO - User launch the browser
+2023-05-20 18:01:47,796 - nopCommerce -INFO - user opens the URL
+2023-05-20 18:01:48,785 - nopCommerce -INFO - user enters email  and password 
+2023-05-20 18:01:49,009 - nopCommerce -INFO - user clicks login button
+2023-05-20 18:01:51,058 - nopCommerce -INFO - user navigated to home page
+2023-05-20 18:01:51,059 - nopCommerce -INFO - user clicks on Customer menu 
+2023-05-20 18:01:51,117 - nopCommerce -INFO - user clicks on customer menu item 
+2023-05-20 18:01:52,289 - nopCommerce -INFO - user enters customer First name and last name
+2023-05-20 18:01:52,400 - nopCommerce -INFO - user clicks on the search button
+2023-05-20 18:01:55,869 - nopCommerce -INFO - user  found First name and last name in the search table
+2023-05-20 18:01:55,869 - nopCommerce -INFO - close the browser 
+2023-05-20 18:01:56,945 - nopCommerce -INFO - User launch the browser
+2023-05-20 18:01:56,945 - nopCommerce -INFO - user opens the URL
+2023-05-20 18:01:57,949 - nopCommerce -INFO - user enters email  and password 
+2023-05-20 18:01:58,191 - nopCommerce -INFO - user clicks login button
+2023-05-20 18:02:00,307 - nopCommerce -INFO - user navigated to home page
+2023-05-20 18:02:00,308 - nopCommerce -INFO - user clicks on Logout button
+2023-05-20 18:02:01,191 - nopCommerce -INFO - user navigated to login page 
+2023-05-20 18:02:01,206 - nopCommerce -INFO - close the browser 
+2023-05-20 18:02:02,229 - nopCommerce -INFO - User launch the browser
+2023-05-20 18:02:02,232 - nopCommerce -INFO - user opens the URL
+2023-05-20 18:02:03,226 - nopCommerce -INFO - user enters email  and password 
+2023-05-20 18:02:03,447 - nopCommerce -INFO - user clicks login button
+2023-05-20 18:02:05,512 - nopCommerce -INFO - user navigated to home page
+2023-05-20 18:02:05,512 - nopCommerce -INFO - user clicks on Logout button
+2023-05-20 18:02:06,308 - nopCommerce -INFO - user navigated to login page 
+2023-05-20 18:02:06,319 - nopCommerce -INFO - close the browser 
+2023-05-20 18:02:07,355 - nopCommerce -INFO - User launch the browser
+2023-05-20 18:02:07,356 - nopCommerce -INFO - user opens the URL
+2023-05-20 18:02:08,126 - nopCommerce -INFO - user enters email  and password 
+2023-05-20 18:02:08,346 - nopCommerce -INFO - user clicks login button
+2023-05-20 18:02:08,848 - nopCommerce -INFO -  Login was unsuccessful
+2023-05-20 18:08:26,604 - nopCommerce -INFO - User launch the browser
+2023-05-20 18:08:26,641 - nopCommerce -INFO - user opens the URL
+2023-05-20 18:08:27,507 - nopCommerce -INFO - user enters email  and password 
+2023-05-20 18:08:27,739 - nopCommerce -INFO - user clicks login button
+2023-05-20 18:08:29,815 - nopCommerce -INFO - user navigated to home page
+2023-05-20 18:08:29,816 - nopCommerce -INFO - user clicks on Customer menu 
+2023-05-20 18:08:29,883 - nopCommerce -INFO - user clicks on customer menu item 
+2023-05-20 18:08:30,986 - nopCommerce -INFO - user click on Add new button 
+2023-05-20 18:08:31,704 - nopCommerce -INFO - user  view the Add new customer page 
+2023-05-20 18:08:31,707 - nopCommerce -INFO - user enters customer details 
+2023-05-20 18:08:31,707 - nopCommerce -INFO - user enters email ID
+2023-05-20 18:08:31,788 - nopCommerce -INFO - user enters passwrd
+2023-05-20 18:08:31,858 - nopCommerce -INFO - user enters customer first name
+2023-05-20 18:08:31,923 - nopCommerce -INFO - user enters customer last name
+2023-05-20 18:08:31,973 - nopCommerce -INFO - user enters customer gender
+2023-05-20 18:08:32,025 - nopCommerce -INFO - user enters customer DOB
+2023-05-20 18:08:32,106 - nopCommerce -INFO - user enters company name
+2023-05-20 18:08:38,507 - nopCommerce -INFO - user selects vender
+2023-05-20 18:08:38,706 - nopCommerce -INFO - user enters comment
+2023-05-20 18:08:38,807 - nopCommerce -INFO - user clicks on Save button
+2023-05-20 18:08:39,527 - nopCommerce -INFO - The new customer has been added successfully.
+2023-05-20 18:08:39,528 - nopCommerce -INFO - close the browser 
+2023-05-20 18:08:40,587 - nopCommerce -INFO - User launch the browser
+2023-05-20 18:08:40,594 - nopCommerce -INFO - user opens the URL
+2023-05-20 18:08:41,534 - nopCommerce -INFO - user enters email  and password 
+2023-05-20 18:08:41,760 - nopCommerce -INFO - user clicks login button
+2023-05-20 18:08:43,710 - nopCommerce -INFO - user navigated to home page
+2023-05-20 18:08:43,711 - nopCommerce -INFO - user clicks on Logout button
+2023-05-20 18:08:44,456 - nopCommerce -INFO - user navigated to login page 
+2023-05-20 18:08:44,467 - nopCommerce -INFO - close the browser 
+2023-05-21 20:36:26,316 - nopCommerce -INFO - User launch the browser
+2023-05-21 20:36:26,345 - nopCommerce -INFO - user opens the URL
+2023-05-21 20:36:27,234 - nopCommerce -INFO - user enters email  and password 
+2023-05-21 20:36:27,471 - nopCommerce -INFO - user clicks login button
+2023-05-21 20:36:29,753 - nopCommerce -INFO - user navigated to home page
+2023-05-21 20:36:29,754 - nopCommerce -INFO - user clicks on Customer menu 
+2023-05-21 20:36:29,824 - nopCommerce -INFO - user clicks on customer menu item 
+2023-05-21 20:36:30,867 - nopCommerce -INFO - user click on Add new button 
+2023-05-21 20:36:31,658 - nopCommerce -INFO - user  view the Add new customer page 
+2023-05-21 20:36:31,659 - nopCommerce -INFO - user enters customer details 
+2023-05-21 20:36:31,659 - nopCommerce -INFO - user enters email ID
+2023-05-21 20:36:31,752 - nopCommerce -INFO - user enters passwrd
+2023-05-21 20:36:31,805 - nopCommerce -INFO - user enters customer first name
+2023-05-21 20:36:31,869 - nopCommerce -INFO - user enters customer last name
+2023-05-21 20:36:31,924 - nopCommerce -INFO - user enters customer gender
+2023-05-21 20:36:31,982 - nopCommerce -INFO - user enters customer DOB
+2023-05-21 20:36:32,061 - nopCommerce -INFO - user enters company name
+2023-05-21 20:36:38,433 - nopCommerce -INFO - user selects vender
+2023-05-21 20:36:38,597 - nopCommerce -INFO - user enters comment
+2023-05-21 20:36:38,685 - nopCommerce -INFO - user clicks on Save button
+2023-05-21 20:36:39,490 - nopCommerce -INFO - The new customer has been added successfully.
+2023-05-21 20:36:39,491 - nopCommerce -INFO - close the browser 
+2023-05-21 20:36:40,583 - nopCommerce -INFO - User launch the browser
+2023-05-21 20:36:40,584 - nopCommerce -INFO - user opens the URL
+2023-05-21 20:36:41,426 - nopCommerce -INFO - user enters email  and password 
+2023-05-21 20:36:41,664 - nopCommerce -INFO - user clicks login button
+2023-05-21 20:36:43,690 - nopCommerce -INFO - user navigated to home page
+2023-05-21 20:36:43,695 - nopCommerce -INFO - user clicks on Logout button
+2023-05-21 20:36:44,455 - nopCommerce -INFO - user navigated to login page 
+2023-05-21 20:36:44,463 - nopCommerce -INFO - close the browser 
+2023-05-21 20:36:45,502 - nopCommerce -INFO - User launch the browser
+2023-05-21 20:36:45,503 - nopCommerce -INFO - user opens the URL
+2023-05-21 20:36:46,409 - nopCommerce -INFO - user enters email  and password 
+2023-05-21 20:36:46,646 - nopCommerce -INFO - user clicks login button
+2023-05-21 20:36:48,385 - nopCommerce -INFO - user navigated to home page
+2023-05-21 20:36:48,386 - nopCommerce -INFO - user clicks on Customer menu 
+2023-05-21 20:36:48,443 - nopCommerce -INFO - user clicks on customer menu item 
+2023-05-21 20:36:49,510 - nopCommerce -INFO - user click on Add new button 
+2023-05-21 20:36:50,284 - nopCommerce -INFO - user  view the Add new customer page 
+2023-05-21 20:36:50,285 - nopCommerce -INFO - user enters customer details 
+2023-05-21 20:36:50,285 - nopCommerce -INFO - user enters email ID
+2023-05-21 20:36:50,387 - nopCommerce -INFO - user enters passwrd
+2023-05-21 20:36:50,451 - nopCommerce -INFO - user enters customer first name
+2023-05-21 20:36:50,524 - nopCommerce -INFO - user enters customer last name
+2023-05-21 20:36:50,578 - nopCommerce -INFO - user enters customer gender
+2023-05-21 20:36:50,632 - nopCommerce -INFO - user enters customer DOB
+2023-05-21 20:36:50,722 - nopCommerce -INFO - user enters company name
+2023-05-21 20:36:57,065 - nopCommerce -INFO - user selects vender
+2023-05-21 20:36:57,174 - nopCommerce -INFO - user enters comment
+2023-05-21 20:36:57,264 - nopCommerce -INFO - user clicks on Save button
+2023-05-21 20:36:58,085 - nopCommerce -INFO - The new customer has been added successfully.
+2023-05-21 20:36:58,086 - nopCommerce -INFO - close the browser 
+2023-05-21 20:36:59,160 - nopCommerce -INFO - User launch the browser
+2023-05-21 20:36:59,162 - nopCommerce -INFO - user opens the URL
+2023-05-21 20:37:00,042 - nopCommerce -INFO - user enters email  and password 
+2023-05-21 20:37:00,267 - nopCommerce -INFO - user clicks login button
+2023-05-21 20:37:02,285 - nopCommerce -INFO - user navigated to home page
+2023-05-21 20:37:02,286 - nopCommerce -INFO - user clicks on Customer menu 
+2023-05-21 20:37:02,344 - nopCommerce -INFO - user clicks on customer menu item 
+2023-05-21 20:37:03,343 - nopCommerce -INFO - user enters customer email to search
+2023-05-21 20:37:03,463 - nopCommerce -INFO - user clicks on the search button
+2023-05-21 20:37:07,503 - nopCommerce -INFO - User launch the browser
+2023-05-21 20:37:07,504 - nopCommerce -INFO - user opens the URL
+2023-05-21 20:37:08,503 - nopCommerce -INFO - user enters email  and password 
+2023-05-21 20:37:08,760 - nopCommerce -INFO - user clicks login button
+2023-05-21 20:37:10,719 - nopCommerce -INFO - user navigated to home page
+2023-05-21 20:37:10,720 - nopCommerce -INFO - user clicks on Customer menu 
+2023-05-21 20:37:10,776 - nopCommerce -INFO - user clicks on customer menu item 
+2023-05-21 20:37:12,244 - nopCommerce -INFO - user enters customer First name and last name
+2023-05-21 20:37:12,400 - nopCommerce -INFO - user clicks on the search button
+2023-05-21 20:37:15,722 - nopCommerce -INFO - user  found First name and last name in the search table
+2023-05-21 20:37:15,736 - nopCommerce -INFO - close the browser 
+2023-05-21 20:37:16,810 - nopCommerce -INFO - User launch the browser
+2023-05-21 20:37:16,810 - nopCommerce -INFO - user opens the URL
+2023-05-21 20:37:18,209 - nopCommerce -INFO - user enters email  and password 
+2023-05-21 20:37:18,423 - nopCommerce -INFO - user clicks login button
+2023-05-21 20:37:21,397 - nopCommerce -INFO - user navigated to home page
+2023-05-21 20:37:21,397 - nopCommerce -INFO - user clicks on Logout button
+2023-05-21 20:37:22,269 - nopCommerce -INFO - user navigated to login page 
+2023-05-21 20:37:22,278 - nopCommerce -INFO - close the browser 
+2023-05-21 20:37:23,326 - nopCommerce -INFO - User launch the browser
+2023-05-21 20:37:23,330 - nopCommerce -INFO - user opens the URL
+2023-05-21 20:37:24,029 - nopCommerce -INFO - user enters email  and password 
+2023-05-21 20:37:24,259 - nopCommerce -INFO - user clicks login button
+2023-05-21 20:37:25,890 - nopCommerce -INFO - user navigated to home page
+2023-05-21 20:37:25,891 - nopCommerce -INFO - user clicks on Logout button
+2023-05-21 20:37:26,644 - nopCommerce -INFO - user navigated to login page 
+2023-05-21 20:37:26,653 - nopCommerce -INFO - close the browser 
+2023-05-21 20:37:27,727 - nopCommerce -INFO - User launch the browser
+2023-05-21 20:37:27,727 - nopCommerce -INFO - user opens the URL
+2023-05-21 20:37:28,617 - nopCommerce -INFO - user enters email  and password 
+2023-05-21 20:37:28,863 - nopCommerce -INFO - user clicks login button
+2023-05-21 20:37:29,379 - nopCommerce -INFO -  Login was unsuccessful
+2023-05-21 20:39:21,493 - nopCommerce -INFO - User launch the browser
+2023-05-21 20:39:21,522 - nopCommerce -INFO - user opens the URL
+2023-05-21 20:39:22,420 - nopCommerce -INFO - user enters email  and password 
+2023-05-21 20:39:22,648 - nopCommerce -INFO - user clicks login button
+2023-05-21 20:39:25,355 - nopCommerce -INFO - user navigated to home page
+2023-05-21 20:39:25,355 - nopCommerce -INFO - user clicks on Customer menu 
+2023-05-21 20:39:25,449 - nopCommerce -INFO - user clicks on customer menu item 
+2023-05-21 20:39:26,479 - nopCommerce -INFO - user click on Add new button 
+2023-05-21 20:39:27,378 - nopCommerce -INFO - user  view the Add new customer page 
+2023-05-21 20:39:27,378 - nopCommerce -INFO - user enters customer details 
+2023-05-21 20:39:27,379 - nopCommerce -INFO - user enters email ID
+2023-05-21 20:39:27,478 - nopCommerce -INFO - user enters passwrd
+2023-05-21 20:39:27,533 - nopCommerce -INFO - user enters customer first name
+2023-05-21 20:39:27,604 - nopCommerce -INFO - user enters customer last name
+2023-05-21 20:39:27,657 - nopCommerce -INFO - user enters customer gender
+2023-05-21 20:39:27,716 - nopCommerce -INFO - user enters customer DOB
+2023-05-21 20:39:27,803 - nopCommerce -INFO - user enters company name
+2023-05-21 20:39:34,175 - nopCommerce -INFO - user selects vender
+2023-05-21 20:39:34,307 - nopCommerce -INFO - user enters comment
+2023-05-21 20:39:34,382 - nopCommerce -INFO - user clicks on Save button
+2023-05-21 20:39:35,195 - nopCommerce -INFO - The new customer has been added successfully.
+2023-05-21 20:39:35,195 - nopCommerce -INFO - close the browser 
+2023-05-21 20:39:36,309 - nopCommerce -INFO - User launch the browser
+2023-05-21 20:39:36,315 - nopCommerce -INFO - user opens the URL
+2023-05-21 20:39:37,247 - nopCommerce -INFO - user enters email  and password 
+2023-05-21 20:39:37,469 - nopCommerce -INFO - user clicks login button
+2023-05-21 20:39:39,393 - nopCommerce -INFO - user navigated to home page
+2023-05-21 20:39:39,409 - nopCommerce -INFO - user clicks on Logout button
+2023-05-21 20:39:40,351 - nopCommerce -INFO - user navigated to login page 
+2023-05-21 20:39:40,365 - nopCommerce -INFO - close the browser 
+2023-05-21 20:39:41,492 - nopCommerce -INFO - User launch the browser
+2023-05-21 20:39:41,495 - nopCommerce -INFO - user opens the URL
+2023-05-21 20:39:42,694 - nopCommerce -INFO - user enters email  and password 
+2023-05-21 20:39:42,943 - nopCommerce -INFO - user clicks login button
+2023-05-21 20:39:44,841 - nopCommerce -INFO - user navigated to home page
+2023-05-21 20:39:44,842 - nopCommerce -INFO - user clicks on Customer menu 
+2023-05-21 20:39:44,911 - nopCommerce -INFO - user clicks on customer menu item 
+2023-05-21 20:39:46,078 - nopCommerce -INFO - user click on Add new button 
+2023-05-21 20:39:46,787 - nopCommerce -INFO - user  view the Add new customer page 
+2023-05-21 20:39:46,788 - nopCommerce -INFO - user enters customer details 
+2023-05-21 20:39:46,788 - nopCommerce -INFO - user enters email ID
+2023-05-21 20:39:46,894 - nopCommerce -INFO - user enters passwrd
+2023-05-21 20:39:46,961 - nopCommerce -INFO - user enters customer first name
+2023-05-21 20:39:47,029 - nopCommerce -INFO - user enters customer last name
+2023-05-21 20:39:47,080 - nopCommerce -INFO - user enters customer gender
+2023-05-21 20:39:47,145 - nopCommerce -INFO - user enters customer DOB
+2023-05-21 20:39:47,231 - nopCommerce -INFO - user enters company name
+2023-05-21 20:39:53,609 - nopCommerce -INFO - user selects vender
+2023-05-21 20:39:53,747 - nopCommerce -INFO - user enters comment
+2023-05-21 20:39:53,839 - nopCommerce -INFO - user clicks on Save button
+2023-05-21 20:39:54,629 - nopCommerce -INFO - The new customer has been added successfully.
+2023-05-21 20:39:54,629 - nopCommerce -INFO - close the browser 
+2023-05-21 20:39:55,741 - nopCommerce -INFO - User launch the browser
+2023-05-21 20:39:55,741 - nopCommerce -INFO - user opens the URL
+2023-05-21 20:39:56,384 - nopCommerce -INFO - user enters email  and password 
+2023-05-21 20:39:56,622 - nopCommerce -INFO - user clicks login button
+2023-05-21 20:39:58,772 - nopCommerce -INFO - user navigated to home page
+2023-05-21 20:39:58,773 - nopCommerce -INFO - user clicks on Customer menu 
+2023-05-21 20:39:58,830 - nopCommerce -INFO - user clicks on customer menu item 
+2023-05-21 20:39:59,982 - nopCommerce -INFO - user enters customer email to search
+2023-05-21 20:40:00,106 - nopCommerce -INFO - user clicks on the search button
+2023-05-21 20:40:04,152 - nopCommerce -INFO - User launch the browser
+2023-05-21 20:40:04,153 - nopCommerce -INFO - user opens the URL
+2023-05-21 20:40:04,951 - nopCommerce -INFO - user enters email  and password 
+2023-05-21 20:40:05,220 - nopCommerce -INFO - user clicks login button
+2023-05-21 20:40:07,122 - nopCommerce -INFO - user navigated to home page
+2023-05-21 20:40:07,122 - nopCommerce -INFO - user clicks on Customer menu 
+2023-05-21 20:40:07,186 - nopCommerce -INFO - user clicks on customer menu item 
+2023-05-21 20:40:08,311 - nopCommerce -INFO - user enters customer First name and last name
+2023-05-21 20:40:08,443 - nopCommerce -INFO - user clicks on the search button
+2023-05-21 20:40:11,694 - nopCommerce -INFO - user  found First name and last name in the search table
+2023-05-21 20:40:11,694 - nopCommerce -INFO - close the browser 
+2023-05-21 20:40:12,730 - nopCommerce -INFO - User launch the browser
+2023-05-21 20:40:12,730 - nopCommerce -INFO - user opens the URL
+2023-05-21 20:40:13,413 - nopCommerce -INFO - user enters email  and password 
+2023-05-21 20:40:13,694 - nopCommerce -INFO - user clicks login button
+2023-05-21 20:40:16,869 - nopCommerce -INFO - user navigated to home page
+2023-05-21 20:40:16,870 - nopCommerce -INFO - user clicks on Logout button
+2023-05-21 20:40:17,644 - nopCommerce -INFO - user navigated to login page 
+2023-05-21 20:40:17,652 - nopCommerce -INFO - close the browser 
+2023-05-21 20:40:18,694 - nopCommerce -INFO - User launch the browser
+2023-05-21 20:40:18,698 - nopCommerce -INFO - user opens the URL
+2023-05-21 20:40:19,585 - nopCommerce -INFO - user enters email  and password 
+2023-05-21 20:40:19,820 - nopCommerce -INFO - user clicks login button
+2023-05-21 20:40:21,971 - nopCommerce -INFO - user navigated to home page
+2023-05-21 20:40:21,977 - nopCommerce -INFO - user clicks on Logout button
+2023-05-21 20:40:22,832 - nopCommerce -INFO - user navigated to login page 
+2023-05-21 20:40:22,838 - nopCommerce -INFO - close the browser 
+2023-05-21 20:40:23,876 - nopCommerce -INFO - User launch the browser
+2023-05-21 20:40:23,878 - nopCommerce -INFO - user opens the URL
+2023-05-21 20:40:24,807 - nopCommerce -INFO - user enters email  and password 
+2023-05-21 20:40:25,032 - nopCommerce -INFO - user clicks login button
+2023-05-21 20:40:25,542 - nopCommerce -INFO -  Login was unsuccessful
+2023-05-21 20:46:26,664 - nopCommerce -INFO - User launch the browser
+2023-05-21 20:46:26,687 - nopCommerce -INFO - user opens the URL
+2023-05-21 20:46:27,598 - nopCommerce -INFO - user enters email  and password 
+2023-05-21 20:46:27,844 - nopCommerce -INFO - user clicks login button
+2023-05-21 20:46:29,932 - nopCommerce -INFO - user navigated to home page
+2023-05-21 20:46:29,935 - nopCommerce -INFO - user clicks on Customer menu 
+2023-05-21 20:46:30,006 - nopCommerce -INFO - user clicks on customer menu item 
+2023-05-21 20:46:31,140 - nopCommerce -INFO - user click on Add new button 
+2023-05-21 20:46:31,915 - nopCommerce -INFO - user  view the Add new customer page 
+2023-05-21 20:46:31,916 - nopCommerce -INFO - user enters customer details 
+2023-05-21 20:46:31,917 - nopCommerce -INFO - user enters email ID
+2023-05-21 20:46:32,041 - nopCommerce -INFO - user enters passwrd
+2023-05-21 20:46:32,134 - nopCommerce -INFO - user enters customer first name
+2023-05-21 20:46:32,232 - nopCommerce -INFO - user enters customer last name
+2023-05-21 20:46:32,345 - nopCommerce -INFO - user enters customer gender
+2023-05-21 20:46:32,440 - nopCommerce -INFO - user enters customer DOB
+2023-05-21 20:46:32,569 - nopCommerce -INFO - user enters company name
+2023-05-21 20:46:39,200 - nopCommerce -INFO - user selects vender
+2023-05-21 20:46:39,327 - nopCommerce -INFO - user enters comment
+2023-05-21 20:46:39,390 - nopCommerce -INFO - user clicks on Save button
+2023-05-21 20:46:40,252 - nopCommerce -INFO - The new customer has been added successfully.
+2023-05-21 20:46:40,252 - nopCommerce -INFO - close the browser 
+2023-05-21 20:46:41,378 - nopCommerce -INFO - User launch the browser
+2023-05-21 20:46:41,383 - nopCommerce -INFO - user opens the URL
+2023-05-21 20:46:42,244 - nopCommerce -INFO - user enters email  and password 
+2023-05-21 20:46:42,474 - nopCommerce -INFO - user clicks login button
+2023-05-21 20:46:44,438 - nopCommerce -INFO - user navigated to home page
+2023-05-21 20:46:44,439 - nopCommerce -INFO - user clicks on Logout button
+2023-05-21 20:46:45,153 - nopCommerce -INFO - user navigated to login page 
+2023-05-21 20:46:45,162 - nopCommerce -INFO - close the browser 
+2023-05-21 20:46:46,335 - nopCommerce -INFO - User launch the browser
+2023-05-21 20:46:46,337 - nopCommerce -INFO - user opens the URL
+2023-05-21 20:46:47,200 - nopCommerce -INFO - user enters email  and password 
+2023-05-21 20:46:47,429 - nopCommerce -INFO - user clicks login button
+2023-05-21 20:46:49,258 - nopCommerce -INFO - user navigated to home page
+2023-05-21 20:46:49,258 - nopCommerce -INFO - user clicks on Customer menu 
+2023-05-21 20:46:49,333 - nopCommerce -INFO - user clicks on customer menu item 
+2023-05-21 20:46:50,440 - nopCommerce -INFO - user click on Add new button 
+2023-05-21 20:46:51,244 - nopCommerce -INFO - user  view the Add new customer page 
+2023-05-21 20:46:51,245 - nopCommerce -INFO - user enters customer details 
+2023-05-21 20:46:51,245 - nopCommerce -INFO - user enters email ID
+2023-05-21 20:46:51,361 - nopCommerce -INFO - user enters passwrd
+2023-05-21 20:46:51,414 - nopCommerce -INFO - user enters customer first name
+2023-05-21 20:46:51,490 - nopCommerce -INFO - user enters customer last name
+2023-05-21 20:46:51,543 - nopCommerce -INFO - user enters customer gender
+2023-05-21 20:46:51,594 - nopCommerce -INFO - user enters customer DOB
+2023-05-21 20:46:51,685 - nopCommerce -INFO - user enters company name
+2023-05-21 20:46:58,054 - nopCommerce -INFO - user selects vender
+2023-05-21 20:46:58,165 - nopCommerce -INFO - user enters comment
+2023-05-21 20:46:58,259 - nopCommerce -INFO - user clicks on Save button
+2023-05-21 20:46:59,062 - nopCommerce -INFO - The new customer has been added successfully.
+2023-05-21 20:46:59,062 - nopCommerce -INFO - close the browser 
+2023-05-21 20:47:00,164 - nopCommerce -INFO - User launch the browser
+2023-05-21 20:47:00,164 - nopCommerce -INFO - user opens the URL
+2023-05-21 20:47:01,059 - nopCommerce -INFO - user enters email  and password 
+2023-05-21 20:47:01,290 - nopCommerce -INFO - user clicks login button
+2023-05-21 20:47:03,506 - nopCommerce -INFO - user navigated to home page
+2023-05-21 20:47:03,506 - nopCommerce -INFO - user clicks on Customer menu 
+2023-05-21 20:47:03,577 - nopCommerce -INFO - user clicks on customer menu item 
+2023-05-21 20:47:04,806 - nopCommerce -INFO - user enters customer email to search
+2023-05-21 20:47:04,922 - nopCommerce -INFO - user clicks on the search button
+2023-05-21 20:47:08,983 - nopCommerce -INFO - User launch the browser
+2023-05-21 20:47:08,984 - nopCommerce -INFO - user opens the URL
+2023-05-21 20:47:09,824 - nopCommerce -INFO - user enters email  and password 
+2023-05-21 20:47:10,070 - nopCommerce -INFO - user clicks login button
+2023-05-21 20:47:11,993 - nopCommerce -INFO - user navigated to home page
+2023-05-21 20:47:11,993 - nopCommerce -INFO - user clicks on Customer menu 
+2023-05-21 20:47:12,057 - nopCommerce -INFO - user clicks on customer menu item 
+2023-05-21 20:47:13,157 - nopCommerce -INFO - user enters customer First name and last name
+2023-05-21 20:47:13,300 - nopCommerce -INFO - user clicks on the search button
+2023-05-21 20:47:16,756 - nopCommerce -INFO - user  found First name and last name in the search table
+2023-05-21 20:47:16,756 - nopCommerce -INFO - close the browser 
+2023-05-21 20:47:17,799 - nopCommerce -INFO - User launch the browser
+2023-05-21 20:47:17,799 - nopCommerce -INFO - user opens the URL
+2023-05-21 20:47:18,865 - nopCommerce -INFO - user enters email  and password 
+2023-05-21 20:47:19,155 - nopCommerce -INFO - user clicks login button
+2023-05-21 20:47:20,867 - nopCommerce -INFO - user navigated to home page
+2023-05-21 20:47:20,868 - nopCommerce -INFO - user clicks on Logout button
+2023-05-21 20:47:21,772 - nopCommerce -INFO - user navigated to login page 
+2023-05-21 20:47:21,778 - nopCommerce -INFO - close the browser 
+2023-05-21 20:47:22,815 - nopCommerce -INFO - User launch the browser
+2023-05-21 20:47:22,817 - nopCommerce -INFO - user opens the URL
+2023-05-21 20:47:23,714 - nopCommerce -INFO - user enters email  and password 
+2023-05-21 20:47:23,943 - nopCommerce -INFO - user clicks login button
+2023-05-21 20:47:25,803 - nopCommerce -INFO - user navigated to home page
+2023-05-21 20:47:25,804 - nopCommerce -INFO - user clicks on Logout button
+2023-05-21 20:47:26,607 - nopCommerce -INFO - user navigated to login page 
+2023-05-21 20:47:26,613 - nopCommerce -INFO - close the browser 
+2023-05-21 20:47:27,636 - nopCommerce -INFO - User launch the browser
+2023-05-21 20:47:27,639 - nopCommerce -INFO - user opens the URL
+2023-05-21 20:47:28,477 - nopCommerce -INFO - user enters email  and password 
+2023-05-21 20:47:28,707 - nopCommerce -INFO - user clicks login button
+2023-05-21 20:47:29,002 - nopCommerce -INFO -  Login was unsuccessful
+2023-05-21 21:05:03,108 - nopCommerce -INFO - User launch the browser
+2023-05-21 21:05:03,157 - nopCommerce -INFO - user opens the URL
+2023-05-21 21:05:04,176 - nopCommerce -INFO - user enters email  and password 
+2023-05-21 21:05:04,442 - nopCommerce -INFO - user clicks login button
+2023-05-21 21:05:07,098 - nopCommerce -INFO - user navigated to home page
+2023-05-21 21:05:07,100 - nopCommerce -INFO - user clicks on Customer menu 
+2023-05-21 21:05:07,217 - nopCommerce -INFO - user clicks on customer menu item 
+2023-05-21 21:05:08,957 - nopCommerce -INFO - user click on Add new button 
+2023-05-21 21:05:10,069 - nopCommerce -INFO - user  view the Add new customer page 
+2023-05-21 21:05:10,071 - nopCommerce -INFO - user enters customer details 
+2023-05-21 21:05:10,071 - nopCommerce -INFO - user enters email ID
+2023-05-21 21:05:10,220 - nopCommerce -INFO - user enters passwrd
+2023-05-21 21:05:10,380 - nopCommerce -INFO - user enters customer first name
+2023-05-21 21:05:10,529 - nopCommerce -INFO - user enters customer last name
+2023-05-21 21:05:10,669 - nopCommerce -INFO - user enters customer gender
+2023-05-21 21:05:10,807 - nopCommerce -INFO - user enters customer DOB
+2023-05-21 21:05:10,973 - nopCommerce -INFO - user enters company name
+2023-05-21 21:05:17,744 - nopCommerce -INFO - user selects vender
+2023-05-21 21:05:17,926 - nopCommerce -INFO - user enters comment
+2023-05-21 21:05:18,016 - nopCommerce -INFO - user clicks on Save button
+2023-05-21 21:05:18,925 - nopCommerce -INFO - The new customer has been added successfully.
+2023-05-21 21:05:18,926 - nopCommerce -INFO - close the browser 
+2023-05-21 21:05:19,983 - nopCommerce -INFO - User launch the browser
+2023-05-21 21:05:19,991 - nopCommerce -INFO - user opens the URL
+2023-05-21 21:05:20,930 - nopCommerce -INFO - user enters email  and password 
+2023-05-21 21:05:21,119 - nopCommerce -INFO - user clicks login button
+2023-05-21 21:05:23,275 - nopCommerce -INFO - user navigated to home page
+2023-05-21 21:05:23,276 - nopCommerce -INFO - user clicks on Logout button
+2023-05-21 21:05:24,047 - nopCommerce -INFO - user navigated to login page 
+2023-05-21 21:05:24,060 - nopCommerce -INFO - close the browser 
+2023-05-21 21:05:25,169 - nopCommerce -INFO - User launch the browser
+2023-05-21 21:05:25,171 - nopCommerce -INFO - user opens the URL
+2023-05-21 21:05:26,030 - nopCommerce -INFO - user enters email  and password 
+2023-05-21 21:05:26,211 - nopCommerce -INFO - user clicks login button
+2023-05-21 21:05:28,665 - nopCommerce -INFO - user navigated to home page
+2023-05-21 21:05:28,666 - nopCommerce -INFO - user clicks on Customer menu 
+2023-05-21 21:05:28,793 - nopCommerce -INFO - user clicks on customer menu item 
+2023-05-21 21:05:30,213 - nopCommerce -INFO - user click on Add new button 
+2023-05-21 21:05:34,602 - nopCommerce -INFO - user  view the Add new customer page 
+2023-05-21 21:05:34,603 - nopCommerce -INFO - user enters customer details 
+2023-05-21 21:05:34,603 - nopCommerce -INFO - user enters email ID
+2023-05-21 21:05:34,726 - nopCommerce -INFO - user enters passwrd
+2023-05-21 21:05:34,819 - nopCommerce -INFO - user enters customer first name
+2023-05-21 21:05:34,919 - nopCommerce -INFO - user enters customer last name
+2023-05-21 21:05:35,004 - nopCommerce -INFO - user enters customer gender
+2023-05-21 21:05:35,104 - nopCommerce -INFO - user enters customer DOB
+2023-05-21 21:05:35,196 - nopCommerce -INFO - user enters company name
+2023-05-21 21:05:41,634 - nopCommerce -INFO - user selects vender
+2023-05-21 21:05:41,818 - nopCommerce -INFO - user enters comment
+2023-05-21 21:05:41,928 - nopCommerce -INFO - user clicks on Save button
+2023-05-21 21:05:42,819 - nopCommerce -INFO - The new customer has been added successfully.
+2023-05-21 21:05:42,819 - nopCommerce -INFO - close the browser 
+2023-05-21 21:05:43,855 - nopCommerce -INFO - User launch the browser
+2023-05-21 21:05:43,859 - nopCommerce -INFO - user opens the URL
+2023-05-21 21:05:44,696 - nopCommerce -INFO - user enters email  and password 
+2023-05-21 21:05:44,882 - nopCommerce -INFO - user clicks login button
+2023-05-21 21:05:46,622 - nopCommerce -INFO - user navigated to home page
+2023-05-21 21:05:46,623 - nopCommerce -INFO - user clicks on Customer menu 
+2023-05-21 21:05:46,788 - nopCommerce -INFO - user clicks on customer menu item 
+2023-05-21 21:05:48,451 - nopCommerce -INFO - user enters customer email to search
+2023-05-21 21:05:48,643 - nopCommerce -INFO - user clicks on the search button
+2023-05-21 21:05:52,948 - nopCommerce -INFO - User launch the browser
+2023-05-21 21:05:52,950 - nopCommerce -INFO - user opens the URL
+2023-05-21 21:05:53,586 - nopCommerce -INFO - user enters email  and password 
+2023-05-21 21:05:53,784 - nopCommerce -INFO - user clicks login button
+2023-05-21 21:05:55,484 - nopCommerce -INFO - user navigated to home page
+2023-05-21 21:05:55,485 - nopCommerce -INFO - user clicks on Customer menu 
+2023-05-21 21:05:55,619 - nopCommerce -INFO - user clicks on customer menu item 
+2023-05-21 21:05:57,209 - nopCommerce -INFO - user enters customer First name and last name
+2023-05-21 21:05:57,520 - nopCommerce -INFO - user clicks on the search button
+2023-05-21 21:06:01,647 - nopCommerce -INFO - user  found First name and last name in the search table
+2023-05-21 21:06:01,648 - nopCommerce -INFO - close the browser 
+2023-05-21 21:06:02,996 - nopCommerce -INFO - User launch the browser
+2023-05-21 21:06:02,997 - nopCommerce -INFO - user opens the URL
+2023-05-21 21:06:05,377 - nopCommerce -INFO - user enters email  and password 
+2023-05-21 21:06:05,712 - nopCommerce -INFO - user clicks login button
+2023-05-21 21:06:08,266 - nopCommerce -INFO - user navigated to home page
+2023-05-21 21:06:08,267 - nopCommerce -INFO - user clicks on Logout button
+2023-05-21 21:06:09,145 - nopCommerce -INFO - user navigated to login page 
+2023-05-21 21:06:09,163 - nopCommerce -INFO - close the browser 
+2023-05-21 21:06:10,338 - nopCommerce -INFO - User launch the browser
+2023-05-21 21:06:10,340 - nopCommerce -INFO - user opens the URL
+2023-05-21 21:06:11,249 - nopCommerce -INFO - user enters email  and password 
+2023-05-21 21:06:11,439 - nopCommerce -INFO - user clicks login button
+2023-05-21 21:06:13,377 - nopCommerce -INFO - user navigated to home page
+2023-05-21 21:06:13,378 - nopCommerce -INFO - user clicks on Logout button
+2023-05-21 21:06:14,226 - nopCommerce -INFO - user navigated to login page 
+2023-05-21 21:06:14,237 - nopCommerce -INFO - close the browser 
+2023-05-21 21:06:15,394 - nopCommerce -INFO - User launch the browser
+2023-05-21 21:06:15,397 - nopCommerce -INFO - user opens the URL
+2023-05-21 21:06:16,641 - nopCommerce -INFO - user enters email  and password 
+2023-05-21 21:06:16,865 - nopCommerce -INFO - user clicks login button
+2023-05-21 21:06:17,163 - nopCommerce -INFO -  Login was unsuccessful
